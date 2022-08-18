@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @luis4ch
+- 👋 Olá, eu sou @luis4ch
 - 👍   Meu email luis.colli@escola.pr.gov.br
-- 👀 I’m interested in  aprender programar novas  linguajens
-- 🌱 I’m currently learning  a linguagem html e   css
+- 👀 Estou interessado em  aprender programar novas  linguagens
+- 🌱 atualmente estou aprendendo  a linguagem html e   css
+  
 
 
 <!---
